@@ -1,5 +1,5 @@
 # 15. 3Sum
-# medium
+# Medium
 # 2025/03/18
 
 class Solution:

@@ -1,4 +1,5 @@
 # 1. Two Sum
+# Easy
 # 2025/03/17
 
 class Solution:

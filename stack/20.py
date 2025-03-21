@@ -1,5 +1,5 @@
 # 20. Valid Parentheses
-# Eazy
+# Easy
 # 2025/03/18
 
 class Solution:
